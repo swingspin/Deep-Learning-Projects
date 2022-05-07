@@ -1,0 +1,2 @@
+model_checkpoint_path: "NCL_assessments"
+all_model_checkpoint_paths: "NCL_assessments"
