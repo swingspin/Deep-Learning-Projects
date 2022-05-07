@@ -17,7 +17,7 @@ The dataset of cats and dogs is a combination of three datasets:
 Dogs vs Cats: https://www.kaggle.com/c/dogs-vs-cats
 Stanford Dogs: https://www.kaggle.com/jessicali9530/stanford-dogs-dataset?select=images
 Cat Dataset: https://www.kaggle.com/crawford/cat-dataset
-### 3. Language Model Uisng NLP
+### 3. Language Model Using NLP
 Models capable of generating text are prevalent and present in many aspects of modern life. 
 The objective completed here is to train a word-level language model using the text from the book “Poirot Investigates” by Agatha Christie (https://www.gutenberg.org/ebooks/61262).
 A language model can predict the next word(s) in a sequence of words (sentence/paragraph).Model uses recurrent layers and is able to generate text when prompted. During 
